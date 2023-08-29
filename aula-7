@@ -1,0 +1,68 @@
+s a js file
+// joao arthur
+
+//1
+/* const bool1 = true
+const bool2 = false
+const bool3 = !bool2
+
+let resultado = bool1 && bool2
+console.log("a. ", true )
+
+resultado = bool1 && bool2 && bool3
+console.log("b. ", false) 
+
+resultado = ! resultado&& (bool1 || bool2)
+console.log("c. ", true , true)
+
+console.log("d. ", typeof boleano)
+
+
+//2
+ //foi preciso usar o codigo para converter os numeros
+
+let primeiroNumero = Number(prompt("Digite um numero!"))
+let segundoNumero = number (prompt("Digite outro numero!"))
+const soma = primeiroNumero + segundoNumero
+console.log(soma)
+
+
+//3
+
+let primeiroNumero = Number(prompt("Digite um numero!"))
+let segundoNumero = number (prompt("Digite outro numero!"))
+const soma = primeiroNumero + segundoNumero
+console.log(soma) */
+
+//B
+/* let idade = Number(prompt(" qual a sua idade?"));
+let idadeAmg = Number(prompt("qual a sua idade?"));
+console.log("Sua idade é maior do que a do seu melhor amigo?", (idade >=idadeamg));
+console.log("minha idade é diferente da idade do meu amg", (idade -idadeamg));
+
+
+//2
+let numero = Number(prompt("insira um numero par"));
+console.log ( numero % 2);
+// todo numero divido por dois é igual a zero 
+// oq acontece se inserir um numero impar? o resultado sera com virgula
+ */
+//3
+let idade = Number(prompt("idade em anos"));
+let meses = idade * 12;
+let dias  = meses * 30;
+let horas = dias * 24;
+console.log ( idade);
+console.log (meses);
+console.log (horas);
+
+//4
+//O primeiro numero é maior que segundo? true
+
+//O primeiro numero é igual ao segundo? false
+let primeiroNumero
+//O primeiro numero é divisível pelo segundo? true
+//O segundo numero é divisível pelo primeiro? true
+//obs: O true ou false vai depender dos números inseridos e do resultado da
+//20
+//s operações.
